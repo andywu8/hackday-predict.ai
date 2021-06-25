@@ -1,0 +1,9 @@
+pandas
+plotly
+flask
+numpy
+keras 
+tensorflow
+matplotlib
+sklearn
+IPython
